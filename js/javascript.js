@@ -1,4 +1,4 @@
-window.addEventListener('DOMContentLoaded', function (){
+/*window.addEventListener('DOMContentLoaded', function (){
     let mario = document.getElementById('moustache');
     let sonic = document.getElementById('herisson');
     let avanClicM = 'Team Mario ? Click';

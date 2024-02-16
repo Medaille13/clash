@@ -26,7 +26,7 @@
             <article class="card">  
                 <h4>Mario</h4>
                     <button id="moustache">Team Mario ? Click</button>
-                    <img src="./image/mariooo.jpg" alt="">
+                    <img src="./image/mario.png" alt="">
             </article>  
         </div>
     </section>   
@@ -48,8 +48,7 @@
             <article class="card">
                 <h4>Sonic</h4>
                     <button id="herisson">Team Sonic ?</button>
-                <p></p>
-                    <img src="./image/1111.jpg" alt="">
+                    <img src="./image/main.avif" alt="">
             </article>
         </div>
     </section>  
