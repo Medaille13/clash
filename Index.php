@@ -15,7 +15,7 @@
     <section class="section">
         <div class="row">
             <article class="card">
-                <h1>Le combat ultime mais dans quel côté êtes-vous?</h1>
+                <h1>Le combat ultime mais de quel côté êtes-vous?</h1>
             </article>
         </div>
     </section>  
@@ -34,15 +34,36 @@
     <section class="section section3">
         <div class="row">
             <article class="card">
+                <article>
+                <img id="mariodecu" src="image/mario.gif"></img>
+                <img id="sonicdecu" src="image/shocked.gif"></img>
+                </article>
+
                 <h4>Présentation de ces 2 icones du jeux vidéo</h4>
                 <p>Mario est un personnage facilement reconnaissable à sa moustache, à sa salopette bleue, à ses gants blancs et à sa casquette rouge marquée d'un M inscrit dans un cercle blanc.</p>
-                <img id="mariodecu" src="image/mario.gif"></img>
                 <p>Sonic est un hérisson anthropomorphique bleu céruléen qui possède la particularité de pouvoir courir à la vitesse du son, soit 1 225 km/h .</p>
-                <img id="sonicdecu" src="image/sonic.gif"></img>
+                
             </article>
         </div>
     </section>  
 
+    <!-- 
+    <section id="lesmodals">
+    <div id="myModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-header">
+    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+  </div>
+  <div class="modal-body">
+                    <img id="mariodecu" src="image/mario.gif"></img>
+                    <img id="sonicdecu" src="image/shocked.gif"></img>
+
+  </div>
+  <div class="modal-footer">
+    <button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
+  </div>
+</div>
+    </section>
+    -->
     <section class="section section4" id="survols">
         <div class="row">
             <article class="card">
@@ -55,16 +76,9 @@
 
     </main>     
 
-    <script src="./js/javascript.js<?php echo '?v='.time(); ?>"></script>
-    <script src="./js/javascriptsound.js<?php echo '?v='.time(); ?>"></script>
-    <script src="./js/javascriptsurvol.js<?php echo '?v='.time(); ?>"></script>
-    <script src="./js/javascriptanimation.js<?php echo '?v='.time(); ?>"></script>
+    <script src="./js/jsclicnotification.js<?php echo '?v='.time(); ?>"></script>
+    <script src="./js/jsmusicsurvol.js<?php echo '?v='.time(); ?>"></script>
+    <script src="./js/jsanimation.js<?php echo '?v='.time(); ?>"></script>
 
 </body>
 </html>
-
-  <!--<div class="content_pixel">
-                    <div class="pixelart-to-css">
-                    
-                    </div>
-                </div>-->

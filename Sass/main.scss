@@ -55,7 +55,6 @@ body{
       }
     }
     
-    
     /* Remove extra left and right margins, due to padding in columns */
     .row {margin: 0 -5px;}
     
@@ -96,6 +95,19 @@ body{
     p{
       margin-top: 10px;
       margin-bottom: 20px;
+    }
+
+    #mariodecu {
+      display: none;
+    }
+    #sonicdecu {
+      display: none;
+      margin-left: 58px;
+      width: 80%;
+    }
+    
+    #lesmodals {
+      display: none;
     }
     
     

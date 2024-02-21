@@ -25,8 +25,8 @@
     "to-regex-range": "^5.0.1"
   },
   "scripts": {
-    "w": "sass --watch --update --style=expanded sass/main.scss style2/main.css",
-    "b": "sass --no-source-map --style=compressed sass/main.scss style2/main.css"
+    "w": "sass --watch --update --style=expanded sass/main.scss style/main.css",
+    "b": "sass --no-source-map --style=compressed sass/main.scss style/main.css"
   },
   "author": "Mehdi",
   "license": "ISC"
